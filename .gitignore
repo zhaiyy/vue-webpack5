@@ -1,0 +1,11 @@
+*/.idea/
+*/node_modules/
+*/test/
+*/dist/
+*/build/
+*.log
+.DS_Store
+stats.json
+.vscode
+*/package-lock.json
+*/yarn.lock
